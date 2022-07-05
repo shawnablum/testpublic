@@ -5,4 +5,4 @@ This is a test of the structure. Does putting this in docs > Freehand, make that
 
 Let's test an image embed.
 
-<img src="https://github.com/shawnablum/testpublic/blob/43660be5615141c3be32bf21c671e0953357c456/img/test.png">
+<img src="https://raw.githubusercontent.com/shawnablum/testpublic/43660be5615141c3be32bf21c671e0953357c456/img/test.png">
