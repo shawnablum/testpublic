@@ -20,3 +20,5 @@ And these are my edits locally for Archbee test.
    2. nested
 
 More content yaya.
+
+How do variables work, let's test {{InV}} and also {{groups}} and {{spaces}}.
